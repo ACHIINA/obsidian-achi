@@ -11,6 +11,7 @@ kanban-plugin: board
 - [ ] 研究
 - [ ] アプリ開発
 - [ ] 英語勉強
+- [ ] コーディング勉強
 
 
 ## In progress

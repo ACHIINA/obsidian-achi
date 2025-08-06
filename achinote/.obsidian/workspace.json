@@ -18,7 +18,7 @@
                 "state": {
                   "type": "kanban",
                   "state": {
-                    "file": "無題のカンバン.md",
+                    "file": "Home.md",
                     "kanbanViewState": {
                       "kanban-plugin": "board",
                       "list-collapse": [
@@ -29,7 +29,7 @@
                     }
                   },
                   "icon": "lucide-trello",
-                  "title": "無題のカンバン"
+                  "title": "Home"
                 }
               }
             ]
@@ -42,7 +42,6 @@
               {
                 "id": "d4341835c8afccc8",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
@@ -72,7 +71,6 @@
                       "serial": null
                     }
                   },
-                  "pinned": true,
                   "icon": "terminal",
                   "title": "Terminal: Gemini - achinote"
                 }
@@ -289,7 +287,8 @@
   },
   "active": "eee082a14682eb6f",
   "lastOpenFiles": [
-    "無題のカンバン.md",
+    "2025-08-07.md",
+    "Home.md",
     "Welcome.md",
     "無題のカンバン 1.md",
     "2025-08-06.md",
@@ -316,7 +315,6 @@
     "Notion/English term/IL(poli)terms.md",
     "Notion/English term/English term.md",
     "image.png",
-    "Notion/輸出入商売　ノート/アイデア/ジョジョ.md",
     "Notion/輸出入商売　ノート/アイデア",
     "Notion/開発/HTML＆CSS",
     "Notion/開発/学んだことメモ",
