@@ -10,6 +10,7 @@
           {
             "id": "680b3c513500fa86",
             "type": "tabs",
+            "dimension": 31.333333333333336,
             "children": [
               {
                 "id": "81126058e53ab3ae",
@@ -37,6 +38,7 @@
           {
             "id": "b26f174881cf1719",
             "type": "tabs",
+            "dimension": 68.66666666666667,
             "children": [
               {
                 "id": "d7378f1ac02953d8",
@@ -96,16 +98,6 @@
             }
           },
           {
-            "id": "09cd22dea7423218",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "1fa226388a7dabf3",
             "type": "leaf",
             "state": {
@@ -117,14 +109,7 @@
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "363c8cef41ed6f71",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "3c5b889990ec7c9f",
             "type": "leaf",
@@ -135,11 +120,28 @@
               "title": "GPT"
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "363c8cef41ed6f71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09cd22dea7423218",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 294.5
   },
   "right": {
     "id": "cc0ff589e607685a",
@@ -227,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,7 +251,7 @@
       "open-gate:GPT": false
     }
   },
-  "active": "1fa226388a7dabf3",
+  "active": "81126058e53ab3ae",
   "lastOpenFiles": [
     "あ.md",
     "無題のファイル.md",
