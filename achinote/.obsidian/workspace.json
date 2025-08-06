@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a30fe4946f6485a7",
+        "id": "3261614b0d9011e3",
         "type": "split",
         "children": [
           {
             "id": "271f42e8c65e2e35",
             "type": "tabs",
-            "dimension": 44.71337579617835,
             "children": [
               {
                 "id": "eee082a14682eb6f",
@@ -31,16 +30,25 @@
                   "icon": "lucide-trello",
                   "title": "Home"
                 }
+              },
+              {
+                "id": "b4df11e9f51942fe",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新規タブ"
+                }
               }
             ]
           },
           {
-            "id": "a4b6def4c6f4e702",
+            "id": "3fccc8ff87e18406",
             "type": "tabs",
-            "dimension": 55.28662420382165,
             "children": [
               {
-                "id": "d4341835c8afccc8",
+                "id": "ae133b198d8140c2",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -134,9 +142,11 @@
           {
             "id": "90cd247223304710",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "thino_view",
               "state": {},
+              "pinned": true,
               "icon": "Memos",
               "title": "Thino"
             }
@@ -264,6 +274,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-importer:Open Importer": false,
@@ -275,7 +286,6 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "templater-obsidian:Templater": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "homepage:Open homepage": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
@@ -287,8 +297,8 @@
   },
   "active": "eee082a14682eb6f",
   "lastOpenFiles": [
-    "2025-08-07.md",
     "Home.md",
+    "2025-08-07.md",
     "Welcome.md",
     "無題のカンバン 1.md",
     "2025-08-06.md",
