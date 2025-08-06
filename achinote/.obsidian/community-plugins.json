@@ -13,5 +13,10 @@
   "obsidian-icon-folder",
   "obsidian-memos",
   "editing-toolbar",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "convert-url-to-iframe",
+  "dataview",
+  "omnisearch",
+  "obsidian-tasks-plugin",
+  "terminal"
 ]
