@@ -4,89 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "3261614b0d9011e3",
-        "type": "split",
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
         "children": [
           {
-            "id": "271f42e8c65e2e35",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eee082a14682eb6f",
-                "type": "leaf",
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "Home.md",
-                    "kanbanViewState": {
-                      "kanban-plugin": "board",
-                      "list-collapse": [
-                        false,
-                        false,
-                        true
-                      ]
-                    }
-                  },
-                  "icon": "lucide-trello",
-                  "title": "Home"
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Home.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    true
+                  ]
                 }
               },
-              {
-                "id": "b4df11e9f51942fe",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新規タブ"
-                }
-              }
-            ]
-          },
-          {
-            "id": "3fccc8ff87e18406",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ae133b198d8140c2",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/ha-asus/Documents/GitHub/obsidian-achi/achinote",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/zsh",
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "icon": "terminal",
-                  "title": "Terminal: Gemini - achinote"
-                }
-              }
-            ]
+              "icon": "lucide-trello",
+              "title": "Home"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,11 +83,9 @@
           {
             "id": "90cd247223304710",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "thino_view",
               "state": {},
-              "pinned": true,
               "icon": "Memos",
               "title": "Thino"
             }
@@ -161,9 +100,11 @@
           {
             "id": "09cd22dea7423218",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "calendar",
               "state": {},
+              "pinned": true,
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
@@ -258,9 +199,11 @@
           {
             "id": "3c5b889990ec7c9f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8=",
               "state": {},
+              "pinned": true,
               "icon": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8=",
               "title": "GPT"
             }
@@ -295,12 +238,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eee082a14682eb6f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "無題のカンバン 1.md",
     "Home.md",
     "2025-08-07.md",
     "Welcome.md",
-    "無題のカンバン 1.md",
     "2025-08-06.md",
     "あ.md",
     "無題のファイル.md",
