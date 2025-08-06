@@ -10,7 +10,7 @@
           {
             "id": "271f42e8c65e2e35",
             "type": "tabs",
-            "dimension": 34.35114503816794,
+            "dimension": 44.71337579617835,
             "children": [
               {
                 "id": "eee082a14682eb6f",
@@ -37,7 +37,7 @@
           {
             "id": "a4b6def4c6f4e702",
             "type": "tabs",
-            "dimension": 65.64885496183206,
+            "dimension": 55.28662420382165,
             "children": [
               {
                 "id": "d4341835c8afccc8",
@@ -287,7 +287,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d4341835c8afccc8",
+  "active": "eee082a14682eb6f",
   "lastOpenFiles": [
     "無題のカンバン.md",
     "Welcome.md",
