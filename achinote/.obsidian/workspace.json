@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のカンバン.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "無題のカンバンへのバックリンク"
+              "title": "Welcomeへのバックリンク"
             }
           },
           {
@@ -213,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "無題のカンバン.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "無題のカンバンからのアウトゴーイングリンク"
+              "title": "Welcomeからのアウトゴーイングリンク"
             }
           },
           {
@@ -242,12 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "Welcomeのアウトライン"
             }
           },
           {
@@ -300,10 +301,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "90cd247223304710",
+  "active": "d7378f1ac02953d8",
   "lastOpenFiles": [
-    "Welcome.md",
     "無題のカンバン.md",
+    "Welcome.md",
     "2025-08-06.md",
     "あ.md",
     "無題のファイル.md",
