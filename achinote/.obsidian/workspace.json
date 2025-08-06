@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e1ba25855463eace",
+        "id": "a33a0e60406bc498",
         "type": "split",
         "children": [
           {
@@ -35,7 +35,7 @@
             ]
           },
           {
-            "id": "ecb730f2f00703c7",
+            "id": "b26f174881cf1719",
             "type": "tabs",
             "children": [
               {
@@ -139,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "cc0ff589e607685a",
@@ -227,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,7 +249,7 @@
       "open-gate:GPT": false
     }
   },
-  "active": "9a62b62e5d60d3bf",
+  "active": "1fa226388a7dabf3",
   "lastOpenFiles": [
     "あ.md",
     "無題のファイル.md",
