@@ -1,17 +1,7 @@
 {
   "version": "0.13.0",
   "data": {
-    "boardConfigs": [
-      {
-        "columns": [],
-        "filters": [],
-        "filterPolarity": "Allow",
-        "filterScope": "Both",
-        "name": "Tasks",
-        "showColumnTags": true,
-        "showFilteredTags": true
-      }
-    ],
+    "boardConfigs": [],
     "globalSettings": {
       "defaultColumnNames": {
         "today": "Today",
