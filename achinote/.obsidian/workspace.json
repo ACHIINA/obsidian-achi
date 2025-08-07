@@ -26,19 +26,8 @@
               "icon": "lucide-trello",
               "title": "Home"
             }
-          },
-          {
-            "id": "a1c99eef3217ebad",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {},
-              "icon": "card-board",
-              "title": "CardBoard"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,8 +239,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "a1c99eef3217ebad",
+  "active": "3f34d9c83252a2ab",
   "lastOpenFiles": [
+    "Notion/メルカリ/服.md",
+    "Home.md",
     "無題のカンバン.md",
     "後で見るURL.md",
     "Notion/image.png",
@@ -259,7 +250,6 @@
     "twitter/2025-08-06.md",
     "twitter",
     "twitter/Pasted image 20250807145604.png",
-    "Home.md",
     "twitter/2025-08-07.md",
     "Welcome.md",
     "あ.md",
