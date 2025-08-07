@@ -207,9 +207,19 @@
               "icon": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8=",
               "title": "GPT"
             }
+          },
+          {
+            "id": "59c8b9185430a389",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly94LmNvbS9ob21l",
+              "state": {},
+              "icon": "aHR0cHM6Ly94LmNvbS9ob21l",
+              "title": "X"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -217,6 +227,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "open-gate:X": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "copilot:Open Copilot Chat": false,
@@ -236,10 +247,11 @@
       "obsidian-memos:Thino": false,
       "omnisearch:Omnisearch": false,
       "terminal:Open terminal": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "open-gate:TODO": false
     }
   },
-  "active": "3f34d9c83252a2ab",
+  "active": "59c8b9185430a389",
   "lastOpenFiles": [
     "Notion/メルカリ/服.md",
     "Home.md",
