@@ -7,15 +7,15 @@
           {
             "tag": "untagged",
             "data": {
-              "collapsed": true,
-              "name": "Untagged"
+              "collapsed": false,
+              "name": "買うもの"
             }
           },
           {
             "tag": "otherTags",
             "data": {
-              "collapsed": false,
-              "name": "Other Tags"
+              "collapsed": true,
+              "name": "欲しいもの"
             }
           },
           {
@@ -38,8 +38,8 @@
     ],
     "globalSettings": {
       "defaultColumnNames": {
-        "today": "Today",
-        "tomorrow": "Tomorrow",
+        "today": "",
+        "tomorrow": "",
         "future": "Future",
         "undated": "",
         "otherTags": "",
@@ -49,7 +49,7 @@
       "filters": [],
       "firstDayOfWeek": "FromLocale",
       "ignoreFileNameDates": false,
-      "taskCompletionFormat": "ObsidianTasks",
+      "taskCompletionFormat": "ObsidianCardBoard",
       "taskCompletionInLocalTime": true,
       "taskCompletionShowUtcOffset": true
     }
