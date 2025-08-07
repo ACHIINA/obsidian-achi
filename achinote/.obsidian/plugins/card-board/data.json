@@ -25,7 +25,7 @@
       "filters": [],
       "firstDayOfWeek": "FromLocale",
       "ignoreFileNameDates": false,
-      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionFormat": "ObsidianTasks",
       "taskCompletionInLocalTime": true,
       "taskCompletionShowUtcOffset": true
     }
