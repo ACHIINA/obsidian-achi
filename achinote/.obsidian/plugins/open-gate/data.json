@@ -22,6 +22,17 @@
       "url": "https://x.com/home",
       "zoomFactor": 1,
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy9teWRheQ==": {
+      "id": "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy9teWRheQ==",
+      "title": "TODO",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://icon.horse/icon/to-do.live.com\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "center",
+      "profileKey": "open-gate",
+      "url": "https://to-do.live.com/tasks/myday",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
     }
   }
 }
