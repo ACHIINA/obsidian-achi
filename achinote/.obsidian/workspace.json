@@ -13,6 +13,22 @@
             "state": {
               "type": "kanban",
               "state": {
+                "file": "無題のカンバン.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "無題のカンバン"
+            }
+          },
+          {
+            "id": "7420b6d055cff526",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
                 "file": "Home.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
@@ -27,7 +43,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,13 +255,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "90cd247223304710",
+  "active": "7420b6d055cff526",
   "lastOpenFiles": [
+    "無題のカンバン.md",
+    "無題のカンバン 1.md",
     "Pasted image 20250807145604.png",
     "Home.md",
     "2025-08-06.md",
     "2025-08-07.md",
-    "無題のカンバン 1.md",
     "Welcome.md",
     "あ.md",
     "無題のファイル.md",
