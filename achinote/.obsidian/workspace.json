@@ -11,12 +11,20 @@
             "id": "3f34d9c83252a2ab",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "kanban",
               "state": {
-                "file": "Pasted image 20250807145604.png"
+                "file": "Home.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    true
+                  ]
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250807145604"
+              "icon": "lucide-trello",
+              "title": "Home"
             }
           }
         ]
@@ -231,13 +239,13 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1fa226388a7dabf3",
+  "active": "3f34d9c83252a2ab",
   "lastOpenFiles": [
+    "Pasted image 20250807145604.png",
     "Home.md",
     "Welcome.md",
     "無題のカンバン.md",
     "無題のカンバン 1.md",
-    "Pasted image 20250807145604.png",
     "2025-08-06.md",
     "2025-08-07.md",
     "あ.md",
@@ -260,7 +268,6 @@
     "Notion/Note/Untitled.md",
     "Notion/Note/Note.md",
     "Notion/English term/ライティング.md",
-    "Notion/English term/IL(poli)terms.md",
     "image.png",
     "Notion/輸出入商売　ノート/アイデア",
     "Notion/開発/HTML＆CSS",
