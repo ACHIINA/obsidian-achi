@@ -40,6 +40,28 @@
               "icon": "lucide-file",
               "title": "後で見るURL"
             }
+          },
+          {
+            "id": "a12f733ca0a77421",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
+            }
+          },
+          {
+            "id": "51d5e8dc3179788b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Notion/image.png"
+              },
+              "icon": "lucide-image",
+              "title": "image"
+            }
           }
         ],
         "currentTab": 1
@@ -254,16 +276,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7c0e385d7cb3b3f0",
+  "active": "90cd247223304710",
   "lastOpenFiles": [
     "後で見るURL.md",
-    "無題のカンバン 1.md",
+    "Notion/image.png",
+    "twitter/2025-08-06.md",
+    "twitter",
+    "twitter/Pasted image 20250807145604.png",
     "Home.md",
-    "Pasted image 20250807145604.png",
+    "twitter/2025-08-07.md",
+    "無題のカンバン 1.md",
     "Welcome.md",
     "無題のカンバン.md",
-    "2025-08-06.md",
-    "2025-08-07.md",
     "あ.md",
     "ああ.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -283,7 +307,6 @@
     "Notion/Note/Untitled.md",
     "Notion/Note/Note.md",
     "Notion/English term/ライティング.md",
-    "image.png",
     "Notion/輸出入商売　ノート/アイデア",
     "Notion/開発/HTML＆CSS",
     "Notion/開発/学んだことメモ",
@@ -291,7 +314,6 @@
     "Notion/メルカリ",
     "Notion/Note",
     "Notion/輸出入商売　ノート",
-    "Notion/就活",
-    "Notion/English term"
+    "Notion/就活"
   ]
 }
