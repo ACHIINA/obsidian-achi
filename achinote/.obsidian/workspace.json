@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "52b755058248b336",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3f34d9c83252a2ab",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "image",
               "state": {
-                "file": "無題のカンバン.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Pasted image 20250807145604.png"
               },
-              "icon": "lucide-trello",
-              "title": "無題のカンバン"
-            }
-          },
-          {
-            "id": "7420b6d055cff526",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Home.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    true
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Home"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250807145604"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "363c8cef41ed6f71",
@@ -252,18 +227,19 @@
       "open-gate:GPT": false,
       "obsidian-memos:Thino": false,
       "omnisearch:Omnisearch": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "7420b6d055cff526",
+  "active": "1fa226388a7dabf3",
   "lastOpenFiles": [
+    "Home.md",
+    "Welcome.md",
     "無題のカンバン.md",
     "無題のカンバン 1.md",
     "Pasted image 20250807145604.png",
-    "Home.md",
     "2025-08-06.md",
     "2025-08-07.md",
-    "Welcome.md",
     "あ.md",
     "無題のファイル.md",
     "ああ.md",
