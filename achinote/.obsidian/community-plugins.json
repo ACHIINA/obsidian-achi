@@ -18,5 +18,6 @@
   "dataview",
   "omnisearch",
   "obsidian-tasks-plugin",
-  "terminal"
+  "terminal",
+  "todoist-sync-plugin"
 ]
