@@ -4,41 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "52b755058248b336",
-        "type": "tabs",
+        "id": "7e226ff26a0106ab",
+        "type": "split",
         "children": [
           {
-            "id": "3f34d9c83252a2ab",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Home.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    true
-                  ]
+            "id": "52b755058248b336",
+            "type": "tabs",
+            "dimension": 49.80891719745223,
+            "children": [
+              {
+                "id": "3f34d9c83252a2ab",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Home.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        true
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Home"
                 }
-              },
-              "icon": "lucide-trello",
-              "title": "Home"
-            }
+              }
+            ]
           },
           {
-            "id": "74319e08618d3501",
-            "type": "leaf",
-            "state": {
-              "type": "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy9teWRheQ==",
-              "state": {},
-              "icon": "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy9teWRheQ==",
-              "title": "TODO"
-            }
+            "id": "ba5ca43818c38091",
+            "type": "tabs",
+            "dimension": 50.19108280254777,
+            "children": [
+              {
+                "id": "74319e08618d3501",
+                "type": "leaf",
+                "state": {
+                  "type": "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy9teWRheQ==",
+                  "state": {},
+                  "icon": "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy9teWRheQ==",
+                  "title": "TODO"
+                }
+              }
+            ],
+            "stacked": true
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
