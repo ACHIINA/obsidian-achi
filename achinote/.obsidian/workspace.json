@@ -26,8 +26,19 @@
               "icon": "lucide-trello",
               "title": "Home"
             }
+          },
+          {
+            "id": "74319e08618d3501",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy9teWRheQ==",
+              "state": {},
+              "icon": "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy9teWRheQ==",
+              "title": "TODO"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,7 +262,7 @@
       "open-gate:TODO": false
     }
   },
-  "active": "59c8b9185430a389",
+  "active": "74319e08618d3501",
   "lastOpenFiles": [
     "Notion/メルカリ/服.md",
     "Home.md",
