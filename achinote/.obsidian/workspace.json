@@ -40,9 +40,19 @@
               "icon": "lucide-file",
               "title": "後で見るURL"
             }
+          },
+          {
+            "id": "92e9ca0c1edb9c30",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,7 +264,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7c0e385d7cb3b3f0",
+  "active": "92e9ca0c1edb9c30",
   "lastOpenFiles": [
     "後で見るURL.md",
     "無題のカンバン 1.md",
