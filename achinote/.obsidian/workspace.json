@@ -16,20 +16,14 @@
                 "id": "3f34d9c83252a2ab",
                 "type": "leaf",
                 "state": {
-                  "type": "kanban",
+                  "type": "markdown",
                   "state": {
-                    "file": "Home.md",
-                    "kanbanViewState": {
-                      "kanban-plugin": "board",
-                      "list-collapse": [
-                        false,
-                        false,
-                        true
-                      ]
-                    }
+                    "file": "tech-stack.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-trello",
-                  "title": "Home"
+                  "icon": "lucide-file",
+                  "title": "tech-stack"
                 }
               },
               {
@@ -153,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "cc0ff589e607685a",
@@ -257,7 +252,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -292,8 +287,8 @@
   "active": "3f34d9c83252a2ab",
   "lastOpenFiles": [
     "tech-stack.md",
-    "日々のメモ.md",
     "Home.md",
+    "日々のメモ.md",
     "Notion/メルカリ/服.md",
     "無題のカンバン.md",
     "後で見るURL.md",
