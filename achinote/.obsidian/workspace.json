@@ -4,64 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "7e226ff26a0106ab",
-        "type": "split",
+        "id": "52b755058248b336",
+        "type": "tabs",
         "children": [
           {
-            "id": "52b755058248b336",
-            "type": "tabs",
-            "dimension": 39.36305732484077,
-            "children": [
-              {
-                "id": "3f34d9c83252a2ab",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "tech-stack.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "tech-stack"
-                }
+            "id": "3f34d9c83252a2ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech-stack.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "944eb9fbb44a6ebd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "日々のメモ.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "日々のメモ"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "tech-stack"
+            }
           },
           {
-            "id": "ba5ca43818c38091",
-            "type": "tabs",
-            "dimension": 60.63694267515923,
-            "children": [
-              {
-                "id": "74319e08618d3501",
-                "type": "leaf",
-                "state": {
-                  "type": "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy9teWRheQ==",
-                  "state": {},
-                  "icon": "aHR0cHM6Ly90by1kby5saXZlLmNvbS90YXNrcy9teWRheQ==",
-                  "title": "TODO"
-                }
-              }
-            ],
-            "stacked": true
+            "id": "45af8f63b2bf7488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "あ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "あ"
+            }
+          },
+          {
+            "id": "944eb9fbb44a6ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日々のメモ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "日々のメモ"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -283,10 +272,11 @@
       "open-gate:TODO": false
     }
   },
-  "active": "3f34d9c83252a2ab",
+  "active": "3c5b889990ec7c9f",
   "lastOpenFiles": [
-    "日々のメモ.md",
+    "あ.md",
     "tech-stack.md",
+    "日々のメモ.md",
     "Home.md",
     "Notion/メルカリ/服.md",
     "無題のカンバン.md",
@@ -314,7 +304,6 @@
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "Notion/Note/Untitled.md",
     "Notion/輸出入商売　ノート/アイデア",
     "Notion/開発/HTML＆CSS",
     "Notion/開発/学んだことメモ",
