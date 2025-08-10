@@ -244,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,7 +273,7 @@
       "open-gate:TODO": false
     }
   },
-  "active": "3c5b889990ec7c9f",
+  "active": "45af8f63b2bf7488",
   "lastOpenFiles": [
     "あ.md",
     "tech-stack.md",
