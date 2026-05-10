@@ -8,6 +8,7 @@
   "hideStatusBar": "focused",
   "interceptLogging": true,
   "language": "",
+  "macOSOptionKeyPassthrough": true,
   "newInstanceBehavior": "newHorizontalSplit",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
@@ -17,12 +18,14 @@
     "darwinIntegratedDefault": {
       "args": [],
       "executable": "/bin/zsh",
+      "followTheme": true,
       "name": "",
       "platforms": {
         "darwin": true
       },
       "pythonExecutable": "python3",
       "restoreHistory": false,
+      "rightClickAction": "copyPaste",
       "successExitCodes": [
         "0",
         "SIGINT",
@@ -34,5 +37,9 @@
       "type": "integrated",
       "useWin32Conhost": true
     }
+  },
+  "defaultProfile": null,
+  "terminalOptions": {
+    "documentOverride": null
   }
 }
