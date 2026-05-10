@@ -26,21 +26,8 @@
               "icon": "lucide-trello",
               "title": "Home"
             }
-          },
-          {
-            "id": "4e9b6b53fa0c1f36",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "リリースノート 1.12.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "Homeのアウトライン"
             }
           },
           {
@@ -253,7 +241,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4e9b6b53fa0c1f36",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
     "tech-stack.md",
