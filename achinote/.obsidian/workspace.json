@@ -204,8 +204,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -214,8 +214,8 @@
             "state": {
               "type": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8=",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8="
+              "icon": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8=",
+              "title": "GPT"
             }
           },
           {
@@ -224,17 +224,16 @@
             "state": {
               "type": "aHR0cHM6Ly94LmNvbS9ob21l",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "aHR0cHM6Ly94LmNvbS9ob21l"
+              "icon": "aHR0cHM6Ly94LmNvbS9ob21l",
+              "title": "X"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,7 +263,7 @@
       "obsidian-memos:Thino Super": false
     }
   },
-  "active": "3f34d9c83252a2ab",
+  "active": "9a62b62e5d60d3bf",
   "lastOpenFiles": [
     "あ.md",
     "日々のメモ.md",
